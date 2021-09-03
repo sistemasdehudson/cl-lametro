@@ -1,8 +1,8 @@
 {
-    'name': 'maitehnmaritimo',
+    'name': 'lametro',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto maitehnmaritimo",
+    'summary': "Proyecto lametro",
     'author': 'Sdeh',
     'depends': [
         'base',
