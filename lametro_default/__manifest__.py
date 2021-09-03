@@ -17,7 +17,7 @@
     'limit_memory_hard': '760000000',
     'limit_time_cpu': '60',
     'limit_time_real': '120',
-    'dbfilter': 'maritimo.maitehn',
+    #'dbfilter': 'maritimo.maitehn',
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-maitehnmaritimo',
+        'https://github.com/sistemasdehudson/cl-lametro',
         'https://github.com/regaby/odoo-custom.git',
         ##'https://github.com/regaby/l10n_ar_fe_qr',
         'https://github.com/regaby/l10n_ar_fe_qr.git ctmil/l10n_ar_fe_qr',
